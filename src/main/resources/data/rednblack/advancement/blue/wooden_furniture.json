@@ -1,0 +1,33 @@
+{
+  "parent": "rednblack:blue/root",
+  "criteria": {
+    "craft_furniture": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#rednblack:wooden_furniture"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.blue.wooden_furniture.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "rednblack:oak_chair"
+    },
+    "title": {
+      "translate": "advancements.blue.wooden_furniture.title"
+    }
+  },
+  "requirements": [
+    [
+      "craft_furniture"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

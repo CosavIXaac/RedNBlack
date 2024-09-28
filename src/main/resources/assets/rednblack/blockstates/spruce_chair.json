@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rednblack:block/spruce_chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rednblack:block/spruce_chair"
+    },
+    "facing=south": {
+      "model": "rednblack:block/spruce_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rednblack:block/spruce_chair",
+      "y": 270
+    }
+  }
+}

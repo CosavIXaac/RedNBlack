@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "entered_rednblack": {
+      "conditions": {
+        "to": "rednblack:rednblack"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "rednblack:textures/gui/advancements/backgrounds/rednblack.png",
+    "description": {
+      "translate": "advancements.rednblack.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "rednblack:decayed_leaves"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.rednblack.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_rednblack"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

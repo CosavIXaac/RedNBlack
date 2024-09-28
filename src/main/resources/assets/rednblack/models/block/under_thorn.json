@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/vine",
+  "textures": {
+    "particle": "rednblack:block/under_thorn",
+    "vine": "rednblack:block/under_thorn"
+  }
+}

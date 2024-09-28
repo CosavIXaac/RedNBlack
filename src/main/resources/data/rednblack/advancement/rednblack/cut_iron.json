@@ -1,0 +1,33 @@
+{
+  "parent": "rednblack:rednblack/unexpectedly",
+  "criteria": {
+    "cut_iron": {
+      "conditions": {
+        "items": [
+          {
+            "items": "rednblack:iron_stick"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.rednblack.cut_iron.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "rednblack:iron_stick"
+    },
+    "title": {
+      "translate": "advancements.rednblack.cut_iron.title"
+    }
+  },
+  "requirements": [
+    [
+      "cut_iron"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "rednblack:rednblack/root",
+  "criteria": {
+    "eat_orb_fruit": {
+      "conditions": {
+        "item": {
+          "items": "rednblack:orb_fruit"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.rednblack.unexpectedly.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "rednblack:orb_fruit"
+    },
+    "title": {
+      "translate": "advancements.rednblack.unexpectedly.title"
+    }
+  },
+  "requirements": [
+    [
+      "eat_orb_fruit"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

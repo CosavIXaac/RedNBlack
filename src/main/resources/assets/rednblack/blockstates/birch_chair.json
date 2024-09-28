@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rednblack:block/birch_chair",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rednblack:block/birch_chair"
+    },
+    "facing=south": {
+      "model": "rednblack:block/birch_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rednblack:block/birch_chair",
+      "y": 270
+    }
+  }
+}

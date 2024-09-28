@@ -1,0 +1,78 @@
+{
+    "advancements.rednblack.root.title": "红与黑",
+    "advancements.rednblack.root.description": "你一定做了得罪神明的事",
+    "advancements.rednblack.unexpectedly.title": "始料未及",
+    "advancements.rednblack.unexpectedly.description": "吃下天体果",
+    "advancements.rednblack.cut_iron.title": "灵光一闪",
+    "advancements.rednblack.cut_iron.description": "使用切石机制作铁棍",
+    "advancements.blue.root.title": "碧",
+    "advancements.blue.root.description": "祸兮福之所倚",
+    "advancements.blue.wooden_furniture.title": "筚路蓝缕",
+    "advancements.blue.wooden_furniture.description": "制作简易的木质家具",
+
+    "biome.rednblack.lush_forest": "繁茂森林",
+
+    "block.rednblack.decayed_leaves": "衰败树叶",
+    "block.rednblack.infested_decayed_leaves": "虫蚀衰败树叶",
+    "block.rednblack.oak_chair": "橡木椅子",
+    "block.rednblack.birch_chair": "白桦椅子",
+    "block.rednblack.spruce_chair": "云杉椅子",
+    "block.rednblack.jungle_chair": "丛林椅子",
+    "block.rednblack.oak_table": "橡木桌子",
+    "block.rednblack.birch_table": "白桦桌子",
+    "block.rednblack.spruce_table": "云杉桌子",
+    "block.rednblack.jungle_table": "丛林桌子",
+    "block.rednblack.orb_fruit_block": "天体果实",
+    "block.rednblack.plaster": "灰泥",
+    "block.rednblack.sour_berry_bush": "酸浆果丛",
+    "block.rednblack.under_thorn": "下潜棘",
+    "block.rednblack.rednblack_portal": "红与黑传送门【已废弃】",
+
+    "death.attack.under_thorn": "%1$s迷失在下潜棘中。",
+
+    "entity.rednblack.slug": "蛞蝓",
+    "entity.rednblack.moth": "木鱼",
+    "entity.rednblack.skeleton_warrior": "骷髅勇士",
+    "entity.rednblack.underman": "下潜人",
+    "entity.rednblack.dustphade": "幽尘",
+
+    "entity.rednblack.spear_projectile": "矛",
+
+    "item.rednblack.slug_spawn_egg": "蛞蝓刷怪蛋",
+    "item.rednblack.moth_spawn_egg": "木鱼刷怪蛋",
+    "item.rednblack.skeleton_warrior_spawn_egg": "骷髅勇士刷怪蛋",
+    "item.rednblack.underman_spawn_egg": "下潜人刷怪蛋",
+    "item.rednblack.dustphade_spawn_egg": "幽尘刷怪蛋",
+
+    "item.rednblack.sour_berries": "酸浆果",
+    "item.rednblack.orb_fruit": "天体果",
+
+    "item.rednblack.mothshell": "木鱼壳",
+    "item.rednblack.iron_stick": "铁棍",
+
+    "item.rednblack.moth_paste": "木鱼膏",
+
+    "item.rednblack.iron_mace": "铁槌",
+    "item.rednblack.stone_spear": "石矛",
+    "item.rednblack.iron_club": "铁棒",
+
+    "item.rednblack.mothshell_helmet": "木鱼头盔",
+    "item.rednblack.mothshell_chestplate": "木鱼胸甲",
+    "item.rednblack.mothshell_leggings": "木鱼护腿",
+    "item.rednblack.mothshell_boots": "木鱼靴子",
+    "item.rednblack.black_iron_helmet": "黑铁头盔",
+
+    "itemGroup.rednblack.rednblack_group": "红与黑",
+
+    "sound.entity.underman.ambient": "下潜人：噪声",
+    "sound.entity.underman.hurt": "下潜人：受伤",
+    "sound.entity.underman.death": "下潜人：死亡",
+
+    "tag.item.rednblack.maces": "槌",
+    "tag.item.rednblack.spears": "矛",
+    "tag.item.rednblack.wooden_furniture": "木质家具",
+
+    "modmenu.afdian": "爱发电",
+    "modmenu.nameTranslation.rednblack": "红与黑",
+    "modmenu.descriptionTranslation.rednblack": "红与黑是Fabric下的大型模组，加入了一个与主世界类似的秘密维度，以及独特且丰富的怪物与道具。"
+}

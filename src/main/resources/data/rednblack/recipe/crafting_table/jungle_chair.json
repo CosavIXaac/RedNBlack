@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "group": "wooden_chair",
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+    "W": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "#W#",
+    "# #"
+  ],
+  "result": {
+    "count": 2,
+    "id": "rednblack:jungle_chair"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "rednblack:mothshell"
+    },
+    {
+      "item": "rednblack:sour_berries"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "rednblack:moth_paste"
+  }
+}

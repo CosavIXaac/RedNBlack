@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "group": "wooden_chair",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "rednblack:iron_stick"
+    }
+  },
+  "pattern": [
+    "I",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rednblack:iron_club"
+  }
+}

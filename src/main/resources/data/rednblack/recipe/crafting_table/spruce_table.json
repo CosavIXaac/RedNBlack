@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+  "group": "wooden_table",
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_planks"
+    },
+    "W": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "pattern": [
+    "#W#",
+    "# #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rednblack:spruce_table"
+  }
+}

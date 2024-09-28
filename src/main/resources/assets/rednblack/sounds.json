@@ -1,0 +1,26 @@
+{
+  "entity.underman.ambient": {
+    "category": "hostile",
+    "subtitle": "sound.entity.underman.ambient",
+    "sounds": [
+      {
+        "name": "rednblack:entity/underman/ambient"
+      },
+      "rednblack:entity/underman/ambient2"
+    ]
+  },
+  "entity.underman.hurt": {
+    "category": "hostile",
+    "subtitle": "sound.entity.underman.hurt",
+    "sounds": [
+      "rednblack:entity/underman/hurt"
+    ]
+  },
+  "entity.underman.death": {
+    "category": "hostile",
+    "subtitle": "sound.entity.underman.death",
+    "sounds": [
+      "rednblack:entity/underman/death"
+    ]
+  }
+}

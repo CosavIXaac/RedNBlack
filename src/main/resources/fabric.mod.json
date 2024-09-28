@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "rednblack",
+  "version": "${version}",
+  "name": "RedNBlack",
+  "description": "Added a secret dimension similar to the overworld, as well as a unique and rich array of monsters and items.",
+  "authors": [
+    "RUFRotor"
+  ],
+  "contact": {
+    "sources": "https://github.com/CosavIXaac/RedNBlack/tree/main"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/rednblack/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.rufrotor.rednblack.RNBDataGenerator"
+    ],
+    "client": [
+      "com.rufrotor.rednblack.client.RedNBlackClient"
+    ],
+    "main": [
+      "com.rufrotor.rednblack.RedNBlack"
+    ]
+  },
+  "mixins": [
+    "RedNBlack.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.3",
+    "fabric": "*",
+    "minecraft": "1.21.1"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.afdian": "https://afdian.com/a/rufrotor"
+      }
+    }
+  },
+  "accessWidener": "RedNBlack.accesswidener"
+}
